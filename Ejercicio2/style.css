@@ -1,0 +1,28 @@
+html {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: coral;
+}
+
+body {
+    width: 350px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column; /* Sigue organizando los elementos en columna */
+    align-items: center;
+    border: solid black 5px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: burlywood;
+}
+button {
+    background-color: coral;
+    border-radius: 10px;
+}
+img {
+    width: 110px;
+    height: auto;
+}
